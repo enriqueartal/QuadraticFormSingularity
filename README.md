@@ -7,6 +7,8 @@ In the work in progress *On a quadratic form associated to the nilpotent part of
 
 - Example 5.2 (nested cycles). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/QuadraticFormSingularity/main?filepath=Ejemplo5.2.v3.ipynb)
 
+- Example 5.3 (decomposable). [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/QuadraticFormSingularity/main?filepath=Ejemplo5.3.v3.ipynb)
+
 - Example 5.5 (Dubois-Michel), first singularity. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/QuadraticFormSingularity/main?filepath=Ejemplo5.5a.v3.ipynb)
 
 - Example 5.5 (Dubois-Michel), second singularity. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/QuadraticFormSingularity/main?filepath=Ejemplo5.5b.v3.ipynb)
