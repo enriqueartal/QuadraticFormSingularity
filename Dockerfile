@@ -1,3 +1,4 @@
-FROM sagemathinc/cocalc:latest
+FROM sagemath-dev/develop:latest
 
-COPY --chown=sage:sage ./* /home/sage/
+# Make sure the contents of the repository is in ${HOME}
+COPY --chown=sage:sage . ${HOME}
