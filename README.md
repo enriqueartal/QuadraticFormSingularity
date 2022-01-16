@@ -17,5 +17,5 @@ In the work in progress *On a quadratic form associated to the nilpotent part of
 
 - Example 5.5 (Dubois-Michel), second singularity. <!--[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/QuadraticFormSingularity/main?filepath=Ejemplo5.5b.v3.ipynb)-->
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/QuadraticFormSingularity/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/enriqueartal/QuadraticFormSingularity/binder)
 
