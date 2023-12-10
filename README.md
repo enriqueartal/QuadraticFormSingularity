@@ -27,28 +27,23 @@ given the embedded resolution of a singularity, is expected.
 - Example 4.5 (Steenbrink-Stevens-Schrauwen), second singularity. 
 `Ejemplo4.5b.v1.ipynb)`
 
-- Example 4.6 (Dubois-Michel), 
-<img src="https://render.githubusercontent.com/render/math?math=(a,b)=(1,11)">. 
+- Example 4.6 (Dubois-Michel), $`(a,b)=(1,11)`$. 
 `Ejemplo4.6a.v1.ipynb`
 
-- Example 4.6 (Dubois-Michel),
- <img src="https://render.githubusercontent.com/render/math?math=(a,b)=(3,9)">. 
+- Example 4.6 (Dubois-Michel), $`(a,b)=(3,9)`$.
 `Ejemplo4.6b.v1.ipynb`
 
-- Example 4.6 (Dubois-Michel), general 
-<img src="https://render.githubusercontent.com/render/math?math=(a,b)=(5,11)">. 
+- Example 4.6 (Dubois-Michel), general  $`(a,b)=(5,11)`$.
 `EjemploDBMa.ipynb`
 
-- Example 4.6 (Dubois-Michel), 
-<img src="https://render.githubusercontent.com/render/math?math=(a,b)=(3,13)">.
+- Example 4.6 (Dubois-Michel),  $`(a,b)=(3,13)`$.
 `EjemploDBMb.v1.ipynb`
 
-- Example 4.6 (Dubois-Michel), interactive general 
-<img src="https://render.githubusercontent.com/render/math?math=(a,b)">. 
+- Example 4.6 (Dubois-Michel), interactive general  $`(a,b)`$.
 `EjemploDBMaGeneral.ipynb`
 
 - Example 4.6 (Dubois-Michel), 
-functions for <img src="https://render.githubusercontent.com/render/math?math=(a,b)">. 
+functions for  $`(a,b)`$.
 `EjemploDBMFunction.ipynb)`
 
 
